@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWp0NDdndGsycXBpZndpN3R6M3NyeWNia3V3bGN5N3ZndDV6cjBtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/McB86KfE6dQf6YmN67/giphy.gif" width="280" alt="Cyber Sphere" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWp0NDdndGsycXBpZndpN3R6M3NyeWNia3V3bGN5N3ZndDV6cjBtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/McB86KfE6dQf6YmN67/giphy.gif" width="220" alt="Cyber Sphere" />
 </p>
 
 <h1 align="center">⚡ SYSTEMS ONLINE: BRUNO OLIVEIRA ⚡</h1>
@@ -33,13 +33,4 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
----
-
-### 📊 SYSTEM STATUS & STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Henribh&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henribh&layout=compact&theme=tokyonight" height="160" alt="Top Languages" />
 </p>
